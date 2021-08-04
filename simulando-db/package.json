@@ -1,0 +1,14 @@
+{
+  "name": "simulando-db",
+  "version": "1.0.0",
+  "description": "Exercício para simular consulta em um database",
+  "main": "consulta-carros.js",
+  "scripts": {
+    "start": "node consulta-carros.js"
+  },
+  "author": "José Victor Martins Figueiredo",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
